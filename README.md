@@ -1,9 +1,21 @@
-## Hi there 👋
 
-<!--
-**arushinagmote/arushinagmote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+## 🚀 About Me
+I'm a Data Scientist...
+
+
+# Hi, I'm ARUSHI! 👋
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushi-nagmote-572b32285/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
+## 🛠 Skills
+Python, Machine Learning, Deep Learning, NLP ...
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
